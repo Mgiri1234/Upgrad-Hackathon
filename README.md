@@ -1,7 +1,5 @@
 # 🚀 EduEngage AI - Engagement & Retention Intelligence Platform
 
-**Winner-Ready Hackathon Submission** | **48-72 Hour Development Challenge**
-
 An AI-powered learning analytics platform that predicts learner dropout risk, automates personalized interventions, and provides real-time engagement insights to maximize course completion rates.
 
 ## 🎯 Problem Statement
@@ -126,7 +124,7 @@ node scripts/generateMockData.js
 - **Features:** Full platform analytics, learner management, intervention tools
 
 ### Learner Experiences
-- **High-Risk Learner:** `learner1@demo.com` / `learner123`
+- **High-Risk Learner:** `learner@demo.com` / `learner123`
 - **Successful Learner:** `learner2@demo.com` / `learner123`
 
 ## 🎨 UI/UX Highlights
@@ -255,23 +253,10 @@ const calculateRiskScore = (learnerData) => {
 
 ---
 
-## 👥 Team & Development
-
-**Development Time:** 48-72 hours (Hackathon Sprint)  
-**Architecture:** Full-stack JavaScript/TypeScript  
-**Deployment Ready:** Production-quality code with comprehensive error handling  
-**Demo Ready:** Live application with rich dataset and compelling user journeys  
-
 ## 📞 Contact & Demo
 
 Ready to see EduEngage AI in action? 
 
-- **Live Demo:** http://localhost:3000
+- **Live Demo:** https://eduengage.vercel.app/
 - **Admin Dashboard:** Login with admin@demo.com / admin123
-- **Learner Experience:** Login with learner1@demo.com / learner123
-
-**Built for Impact. Designed for Scale. Ready to Transform Education.** 🚀
-
----
-
-*This project represents a complete, production-ready solution developed during a 48-72 hour hackathon challenge. Every feature is functional, every dashboard is live, and every AI prediction is based on real data analysis.*
+- **Learner Experience:** Login with learner@demo.com / learner123
