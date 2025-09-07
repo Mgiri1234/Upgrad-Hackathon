@@ -67,7 +67,7 @@ EduEngage AI is an intelligent platform that:
 
 ## 📈 Demo Data & Scale
 
-### Comprehensive Dataset
+### Comprehensive Dataset (We have generated dataset, and trained on it)
 - **505 Users** across different roles (learners, admins, instructors)
 - **503 Learners** with detailed enrollment data
 - **5 Courses** covering various difficulty levels
